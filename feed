@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Automotive Workshop Equipment List</title>
+	<atom:link href="https://BSW1001.github.io/automotiveworkshopequipmentlist/feed" rel="self" type="application/rss+xml" />
+	<link>https://BSW1001.github.io/automotiveworkshopequipmentlist</link>
+	<description>Automotive Workshop Equipment List</description>
+	<lastBuildDate>Thursday, 23 December 2021 14:22:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>	
+	
+	
+	
+<!--feeditem-->
+<item>
+		<title>car lifts</title>
+		<link>https://BSW1001.github.io/automotiveworkshopequipmentlist/best/car-lifts.html</link>
+		<pubDate>Thursday, 23 December 2021 14:22:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[best]]></category>
+		<guid isPermaLink="false">https://BSW1001.github.io/automotiveworkshopequipmentlist/best/car-lifts.html</guid> 
+		<description><![CDATA[car lifts
+by
+Kyle Torpey
+Posted on 23-12-2021 02:22 PM
+On This Page 
+ 
+ car lifts 
+ car tire balancing 
+ car shop billing software 
+ wheel alignment machine 
+ car headlight aiming tool 
+ brake rotor lathe 
+ cylinder head porting 
+ 
+ 
+ car lifts 
+ Before you buy a car lift, it is important to understand how they workThey are a great investment for your mechanic shop, but they come with many different benefits
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+	
+	
+</channel>
+</rss>
+
+		
